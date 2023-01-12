@@ -1,5 +1,5 @@
 # Esse, e o PythonOS. Meu """""""sistema operacional""""""" em python.
-# Escrito totalmente em Python usando a biblioteca/engine ursina de @pokepetter, estou publicando este projeto por influencia e inspiração de @Jhonatan-de-Souza, sou muito grato a esse cara.
+# Escrito totalmente em Python usando a biblioteca/engine ursina de @pokepetter, estou publicando este projeto por inspiração de @Jhonatan-de-Souza, sou muito grato a esse cara.
 
 Brinde: 2 Antivirus gratuitos Programas/Pycleaner/Para Voce!
 
